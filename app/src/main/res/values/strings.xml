@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecycleViewReview</string>
+
+    <string-array name="names">
+        <item>Ron</item>
+        <item>Sarah</item>
+        <item>John</item>
+        <item>Emily</item>
+        <item>Elaina</item>
+    </string-array>
+
+    <string-array name="emails">
+        <item>Ron@gmail.com</item>
+        <item>Sarah@gmail.com</item>
+        <item>John@gmail.com</item>
+        <item>Emily@gmail.com</item>
+        <item>Elaina@gmail.com</item>
+    </string-array>
+</resources>
